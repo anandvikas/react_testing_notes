@@ -1,3 +1,8 @@
+## Reference
+[https://www.youtube.com/watch?v=T2sv8jXoP4s&list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd](https://www.youtube.com/watch?v=T2sv8jXoP4s&list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+
+## Introduction
+
 As a developer, the primary goal is to make a software that works. To ensure it, we may rely on testing.
 
  - Manual Testing
